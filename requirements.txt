@@ -1,0 +1,6 @@
+black
+flake8
+ipython
+isort
+kafka-python==2.0.2
+pdbpp
